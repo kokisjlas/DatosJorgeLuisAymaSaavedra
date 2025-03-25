@@ -6,6 +6,8 @@ public class Principal {
 		// TODO Auto-generated method stub
 
 		System.out.println("Jorge Luis Ayma Saavedra");
+		System.out.println("Edad: 24");
+
 	}
 
 }
